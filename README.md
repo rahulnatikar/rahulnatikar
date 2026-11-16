@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**rahulnatikar/rahulnatikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Rahul 👋
 
-Here are some ideas to get you started:
+### About Me
+I'm a BCS Computer Science student interested in Backend Development and Full Stack Development. I enjoy learning new technologies and exploring how things work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Working On
+- Learning Full Stack Development at NxtWave
+- Exploring Backend Development
+- Building projects and improving my coding skills
+
+### Tools & Technologies
+- HTML, CSS, JavaScript
+- React
+- Git & GitHub
+- Supabase
+- Exploring AI and Automation tools
+
+### Connect With Me
+- LinkedIn: [My LinkedIn](YOUR_LINKEDIN_URL)
+- GitHub: [@rahulnatikar](https://github.com/rahulnatikar)
+
